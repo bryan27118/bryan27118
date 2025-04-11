@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryan27118&label=Profile%20views&color=0e75b6&style=flat" alt="bryan27118" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, AWS, and related technologies**
+- 🌱 I’m currently learning **Unreal Engine Game Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
